@@ -4,10 +4,16 @@
 name: Deploy Release
 
 on:
-  release:
-    types: [published]
+  push:
+    branches: ['release', 'releases/*', 'next']
     
   workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Environment to build against'
+        type: environment
+        required: true
+        
 
 jobs:
   build:
