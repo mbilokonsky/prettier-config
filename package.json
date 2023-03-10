@@ -13,5 +13,8 @@
   "author": {
     "name": "mykola",
     "url": "https://coda.io/@mykola-bilokonsky/myks-digital-garden"
+  },
+  "release": {
+    "branches": ["release", "next"]
   }
 }
