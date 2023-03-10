@@ -1,5 +1,5 @@
 {
-  "name": "@egoist/prettier-config",
+  "name": "@mykola/prettier-config",
   "description": "My personal Prettier config",
   "version": "0.1.0",
   "publishConfig": {
@@ -11,7 +11,7 @@
   "main": "index.json",
   "license": "MIT",
   "author": {
-    "name": "EGOIST",
-    "url": "https://egoist.sh"
+    "name": "mykola",
+    "url": "https://coda.io/@mykola-bilokonsky/myks-digital-garden"
   }
 }
