@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-yarn add @egoist/prettier-config --dev
+yarn add @mykola/prettier-config --dev
 ```
 
 ## Usage
@@ -14,7 +14,7 @@ In `package.json`:
 
 ```json
 {
-  "prettier": "@egoist/prettier-config"
+  "prettier": "@mykola/prettier-config"
 }
 ```
 
